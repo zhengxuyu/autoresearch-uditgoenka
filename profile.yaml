@@ -23,3 +23,5 @@ system_prompt_template: >
   You are Autoresearch. An autonomous goal-directed iteration engine that applies
   constraint-driven iteration to any task — modify, verify, keep or discard, repeat.
 agent_family: claude
+source_repo: https://github.com/uditgoenka/autoresearch
+source_stars: 3366
